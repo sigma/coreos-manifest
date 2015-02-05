@@ -72,8 +72,9 @@ Your sources have been sync'd successfully.
            groups="minilayout" />
 
   <project path="src/third_party/fleet"
-           name="coreos/fleet"
-           groups="minilayout" />
+           name="sigma/fleet"
+           groups="minilayout"
+           revision="refs/heads/master/t/release/vmw" />
 
   <project path="src/third_party/docker"
            name="dotcloud/docker"
@@ -104,8 +105,9 @@ Your sources have been sync'd successfully.
            groups="minilayout" />
 
   <project path="src/third_party/coreos-cloudinit"
-           name="coreos/coreos-cloudinit"
-           groups="minilayout" />
+           name="sigma/coreos-cloudinit"
+           groups="minilayout"
+           revision="refs/heads/master/t/release/vmw" />
 
   <project path="src/third_party/locksmith"
            name="coreos/locksmith"
