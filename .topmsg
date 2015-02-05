@@ -1,0 +1,4 @@
+From: Yann Hodique <hodiquey@vmware.com>
+Subject: [PATCH] t/feature/vmw-enablement
+
+use vmware-enabled packages
