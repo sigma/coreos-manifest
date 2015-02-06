@@ -36,8 +36,9 @@ Your sources have been sync'd successfully.
            name="coreos/portage-stable"
            groups="minilayout" />
   <project path="src/third_party/coreos-overlay"
-           name="coreos/coreos-overlay"
-           groups="minilayout" />
+           name="sigma/coreos-overlay"
+           groups="minilayout" 
+           revision="refs/heads/t/release/vmw" />
 
   <project path="src/third_party/dbus-c++"
            name="coreos/dbus-cplusplus"
