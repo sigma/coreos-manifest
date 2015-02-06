@@ -108,7 +108,7 @@ Your sources have been sync'd successfully.
   <project path="src/third_party/coreos-cloudinit"
            name="sigma/coreos-cloudinit"
            groups="minilayout"
-           revision="refs/heads/master/t/release/vmw" />
+           revision="refs/heads/master/t/feature/vmw-init" />
 
   <project path="src/third_party/locksmith"
            name="coreos/locksmith"
