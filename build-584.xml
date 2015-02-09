@@ -35,7 +35,7 @@
   <project groups="minilayout" name="coreos/mantle" path="src/third_party/mantle" revision="a1a810b88e4fca2c320a31a740796eaffecab57f" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/nss-altfiles" path="src/third_party/nss-altfiles" revision="508d986e38c70bd0636740d287d2fe807822fb57" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/portage-stable" path="src/third_party/portage-stable" revision="24bd432205e3a850c7502af88e628b70e3f98235" upstream="refs/heads/master"/>
-  <project groups="minilayout" name="coreos/scripts" path="src/scripts" revision="e4e847dc1057ca30e1985959e2953126a706ac65" upstream="refs/heads/master"/>
+  <project groups="minilayout" name="sigma/coreos-scripts" path="src/scripts" revision="d55d492f09c813e4310da837cbf6a3aaf56c8c53" upstream="refs/heads/t/feature/ovfenv-vars"/>
   <project groups="minilayout" name="coreos/sdnotify-proxy" path="src/third_party/sdnotify-proxy" revision="bfd0269267d91f3bbe89db49ec8ea8903ae8aa3c" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/sysroot-wrappers" path="src/third_party/sysroot-wrappers" revision="28df3404ef84f1f4fe75ef76aa525fad9d93ec83" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/toolbox" path="src/third_party/toolbox" revision="d754fe76b2ece884a2be24569a16affb20dd0b3c" upstream="refs/heads/master"/>
