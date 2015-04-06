@@ -20,7 +20,7 @@
   </project>
   <project groups="minilayout" name="coreos/coreos-buildbot" path="src/third_party/coreos-buildbot" revision="3e4b20f67839aa541839eca6b4b7274d5ad1932c" upstream="refs/heads/master"/>
   <project groups="minilayout" name="sigma/coreos-cloudinit" path="src/third_party/coreos-cloudinit" revision="f5836bab3de56a210b1381959d92718914039372" upstream="refs/heads/t/feature/vmw-init"/>
-  <project groups="minilayout" name="sigma/coreos-overlay" path="src/third_party/coreos-overlay" revision="ef36c13d003ea64309a2b22ef6279fb2f30df802" upstream="refs/heads/t/release/vmw"/>
+  <project groups="minilayout" name="sigma/coreos-overlay" path="src/third_party/coreos-overlay" revision="43c7c82608a52296dcf5cc9be72d9b9cac370156" upstream="refs/heads/t/release/vmw"/>
   <project groups="minilayout" name="coreos/coretest" path="src/third_party/coretest" revision="00d2298bdcfbd93e79169ab9069c93dfef3ec3a0" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/dbus-cplusplus" path="src/third_party/dbus-c++" revision="9194e1425aebcfd7b1d3bf218de4430853dc9e37" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/dev-util" path="src/platform/dev" revision="15dfb80441ae5599acb410af221180ba443639e0" upstream="refs/heads/master"/>
