@@ -69,15 +69,15 @@ Your sources have been sync'd successfully.
            groups="minilayout" />
 
   <project path="src/third_party/docker"
-           name="dotcloud/docker"
+           name="docker/docker"
            groups="minilayout" />
 
   <project path="src/third_party/etcdctl"
            name="coreos/etcdctl"
            groups="minilayout" />
 
-  <project path="src/platform/vboot_reference"
-           name="coreos/vboot_reference"
+  <project path="src/third_party/seismograph"
+           name="coreos/seismograph"
            groups="minilayout" />
 
   <project path="src/third_party/coreos-buildbot"
@@ -146,6 +146,10 @@ Your sources have been sync'd successfully.
 
   <project path="src/third_party/appc-spec"
            name="appc/spec"
+           groups="minilayout" />
+
+  <project path="src/third_party/ignition"
+           name="coreos/ignition"
            groups="minilayout" />
 
 </manifest>
