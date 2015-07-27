@@ -38,7 +38,6 @@
   <project groups="minilayout" name="sigma/coreos-scripts" path="src/scripts" revision="3f778f14a16384aa4f1e076d4a2607c5400eb9a2" upstream="refs/heads/t/feature/ovfenv-vars"/>
   <project groups="minilayout" name="coreos/portage-stable" path="src/third_party/portage-stable" revision="2bf26c639d6851f3fcc5c511a9f56c6283922275" upstream="refs/heads/build-717"/>
   <project groups="minilayout" name="coreos/rkt" path="src/third_party/rkt" revision="26b7596e4dcf10a3dca33c9155ef388fce791146" upstream="refs/heads/master"/>
-  <project groups="minilayout" name="coreos/scripts" path="src/scripts" revision="abb99b560d3ac3277da85b8e9e6519905e2a5221" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/sdnotify-proxy" path="src/third_party/sdnotify-proxy" revision="bfd0269267d91f3bbe89db49ec8ea8903ae8aa3c" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/seismograph" path="src/third_party/seismograph" revision="f9fa3b17bfe7ab390765fc328a639c456b57b38d" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/shim" path="src/third_party/shim" revision="03a1513b0985fd682b13a8d29fe3f1314a704c66" upstream="refs/heads/master"/>
