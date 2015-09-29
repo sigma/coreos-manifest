@@ -69,7 +69,7 @@ Your sources have been sync'd successfully.
            groups="minilayout" />
 
   <project path="src/third_party/docker"
-           name="docker/docker"
+           name="coreos/docker"
            groups="minilayout" />
 
   <project path="src/third_party/etcdctl"
@@ -150,6 +150,10 @@ Your sources have been sync'd successfully.
 
   <project path="src/third_party/ignition"
            name="coreos/ignition"
+           groups="minilayout" />
+
+  <project path="src/third_party/coreos-metadata"
+           name="coreos/coreos-metadata"
            groups="minilayout" />
 
 </manifest>
