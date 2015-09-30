@@ -39,7 +39,7 @@
   <project groups="minilayout" name="coreos/nss-altfiles" path="src/third_party/nss-altfiles" revision="508d986e38c70bd0636740d287d2fe807822fb57" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/portage-stable" path="src/third_party/portage-stable" revision="afad4dd64d0a158990059db7e02091b01cda6cdf" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/rkt" path="src/third_party/rkt" revision="bd99e9728a670ef5cba27c8b19b0721b2f92259e" upstream="refs/heads/master"/>
-  <project groups="minilayout" name="sigma/coreos-scripts" path="src/scripts" revision="fbb92b85cfca8669328b8a79e2cc6b64dc493944" upstream="refs/heads/t/feature/ovfenv-vars"/>
+  <project groups="minilayout" name="sigma/coreos-scripts" path="src/scripts" revision="d92fe2770ad76087f4dc84091dac0086a957ec67" upstream="refs/heads/t/feature/ovfenv-vars"/>
   <project groups="minilayout" name="coreos/sdnotify-proxy" path="src/third_party/sdnotify-proxy" revision="bfd0269267d91f3bbe89db49ec8ea8903ae8aa3c" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/seismograph" path="src/third_party/seismograph" revision="a96246842fe43d410cb8a69daef0d96c8fd56a21" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/shim" path="src/third_party/shim" revision="03a1513b0985fd682b13a8d29fe3f1314a704c66" upstream="refs/heads/master"/>
